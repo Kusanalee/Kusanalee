@@ -1,6 +1,6 @@
 # Hi, I'm Kusanalee 👋
 
-I'm a developer who works primarily with Swift and has experience in various other languages and technologies.
+I'm a overworked developer who works primarily with Swift and has experience in various other languages and technologies.
 
 ## 💻 Languages and Tools
 

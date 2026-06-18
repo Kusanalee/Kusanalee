@@ -1,0 +1,9 @@
+<svg width="88" height="31" viewBox="0 0 88 31" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <rect width="88" height="31" fill="#1b0e2e"/>
+  <rect x="0" y="0" width="88" height="2" fill="#ff4fd8"/>
+  <rect x="0" y="0" width="2" height="31" fill="#ff4fd8"/>
+  <rect x="0" y="29" width="88" height="2" fill="#3d0a52"/>
+  <rect x="86" y="0" width="2" height="31" fill="#3d0a52"/>
+  <text x="44" y="15" font-family="Courier New, monospace" font-size="9" font-weight="bold" fill="#5ff0ff" text-anchor="middle" letter-spacing="2">NTE</text>
+  <text x="44" y="25" font-family="Courier New, monospace" font-size="9" font-weight="bold" fill="#ff4fd8" text-anchor="middle" letter-spacing="1">VIBES</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="88" height="31" viewBox="0 0 88 31" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <rect width="88" height="31" fill="#F0E4D0"/>
+  <rect x="0" y="0" width="88" height="2" fill="#fff8ec"/>
+  <rect x="0" y="0" width="2" height="31" fill="#fff8ec"/>
+  <rect x="0" y="29" width="88" height="2" fill="#8a6b43"/>
+  <rect x="86" y="0" width="2" height="31" fill="#8a6b43"/>
+  <text x="44" y="15" font-family="Courier New, monospace" font-size="9" font-weight="bold" fill="#4a2c12" text-anchor="middle" letter-spacing="1">FUELED BY</text>
+  <text x="44" y="25" font-family="Courier New, monospace" font-size="9" font-weight="bold" fill="#4a2c12" text-anchor="middle" letter-spacing="1">CAFFEINE</text>
+</svg>

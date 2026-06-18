@@ -1,0 +1,9 @@
+<svg width="88" height="31" viewBox="0 0 88 31" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <rect width="88" height="31" fill="#1a1a1a"/>
+  <rect x="0" y="0" width="88" height="2" fill="#F05138"/>
+  <rect x="0" y="0" width="2" height="31" fill="#F05138"/>
+  <rect x="0" y="29" width="88" height="2" fill="#5c1d0a"/>
+  <rect x="86" y="0" width="2" height="31" fill="#5c1d0a"/>
+  <text x="44" y="15" font-family="Courier New, monospace" font-size="9" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">SWIFT</text>
+  <text x="44" y="25" font-family="Courier New, monospace" font-size="9" font-weight="bold" fill="#F05138" text-anchor="middle" letter-spacing="1">GREMLIN</text>
+</svg>

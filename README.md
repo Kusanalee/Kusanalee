@@ -2,7 +2,7 @@
 
 hi, i'm enka.
 
-i'm interested in mathematics, operations research, artificial intelligence, and optimization.
+i'm interested in mathematics, operations research/data science, artificial intelligence, and optimization.
 
 i enjoy understanding how systems work, finding inefficiencies, and figuring out better ways to solve problems.
 
